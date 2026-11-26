@@ -1,3 +1,5 @@
+// The Funniest Auto-Reply an AI Ever Sent — make.fun entry (u-kiencx, $2).
+// Gate: /output/entry.txt must be 1-159 chars, one line. This line is 88.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // The one-line out-of-office auto-reply this agent leaves its human's
